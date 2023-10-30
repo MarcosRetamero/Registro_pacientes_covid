@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="14">
+      <Unit0>
+        <Filename Value="Tp_final_covid.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <CursorPos X="45" Y="6"/>
+        <UsageCount Value="123"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="u_menu.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="255"/>
+        <CursorPos X="31" Y="190"/>
+        <UsageCount Value="123"/>
+        <Loaded Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="u_registros.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="147"/>
+        <CursorPos X="17" Y="67"/>
+        <UsageCount Value="121"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="u_menu_principal.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="U_menu_principal"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="114"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="u_arboles.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="3"/>
+        <CursorPos X="44" Y="19"/>
+        <UsageCount Value="108"/>
+        <Loaded Value="True"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="u_archivo.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="4"/>
+        <CursorPos X="68" Y="65"/>
+        <UsageCount Value="108"/>
+        <Loaded Value="True"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="u_usa_archivo.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="u_maneja_archivo"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="37" Y="32"/>
+        <UsageCount Value="108"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="usa_arboles.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="37" Y="6"/>
+        <UsageCount Value="108"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="procesos.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Procesos"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="138"/>
+        <CursorPos X="9" Y="63"/>
+        <UsageCount Value="101"/>
+        <Loaded Value="True"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="..\Trabajos prácticos\Pascal\Tp7\u_menu.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="2"/>
+        <UsageCount Value="6"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="..\Trabajos prácticos\Pascal\Tp10\Ejercicio 1\Ejercicio1\u_registros.pas"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="6"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="u_arboles.lpr"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="8"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="ARBOLES.lpr"/>
+        <UnitName Value="u_arboles"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="8"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="u_maneja_archivo.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="31"/>
+        <CursorPos X="73" Y="65"/>
+        <UsageCount Value="10"/>
+      </Unit13>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="procesos.pas"/>
+        <Caret Line="271" TopLine="251"/>
+      </Position1>
+      <Position2>
+        <Filename Value="procesos.pas"/>
+        <Caret Line="272" TopLine="251"/>
+      </Position2>
+      <Position3>
+        <Filename Value="procesos.pas"/>
+        <Caret Line="274" TopLine="251"/>
+      </Position3>
+      <Position4>
+        <Filename Value="procesos.pas"/>
+        <Caret Line="262" TopLine="251"/>
+      </Position4>
+      <Position5>
+        <Filename Value="procesos.pas"/>
+        <Caret Line="263" TopLine="251"/>
+      </Position5>
+      <Position6>
+        <Filename Value="procesos.pas"/>
+        <Caret Line="262" TopLine="251"/>
+      </Position6>
+      <Position7>
+        <Filename Value="procesos.pas"/>
+        <Caret Line="276" TopLine="251"/>
+      </Position7>
+      <Position8>
+        <Filename Value="procesos.pas"/>
+        <Caret Line="265" TopLine="251"/>
+      </Position8>
+      <Position9>
+        <Filename Value="procesos.pas"/>
+        <Caret Line="266" TopLine="251"/>
+      </Position9>
+      <Position10>
+        <Filename Value="procesos.pas"/>
+        <Caret Line="61" TopLine="44"/>
+      </Position10>
+      <Position11>
+        <Filename Value="procesos.pas"/>
+        <Caret Line="62" TopLine="44"/>
+      </Position11>
+      <Position12>
+        <Filename Value="procesos.pas"/>
+        <Caret Line="63" TopLine="44"/>
+      </Position12>
+      <Position13>
+        <Filename Value="procesos.pas"/>
+        <Caret Line="267" TopLine="250"/>
+      </Position13>
+      <Position14>
+        <Filename Value="procesos.pas"/>
+        <Caret Line="66" TopLine="49"/>
+      </Position14>
+      <Position15>
+        <Filename Value="procesos.pas"/>
+        <Caret Line="67" TopLine="49"/>
+      </Position15>
+      <Position16>
+        <Filename Value="procesos.pas"/>
+        <Caret Line="68" TopLine="49"/>
+      </Position16>
+      <Position17>
+        <Filename Value="procesos.pas"/>
+        <Caret Line="268" TopLine="251"/>
+      </Position17>
+      <Position18>
+        <Filename Value="procesos.pas"/>
+        <Caret Line="270" TopLine="251"/>
+      </Position18>
+      <Position19>
+        <Filename Value="procesos.pas"/>
+        <Caret Line="271" TopLine="251"/>
+      </Position19>
+      <Position20>
+        <Filename Value="procesos.pas"/>
+        <Caret Line="292" Column="38" TopLine="271"/>
+      </Position20>
+      <Position21>
+        <Filename Value="procesos.pas"/>
+        <Caret Line="16" Column="24"/>
+      </Position21>
+      <Position22>
+        <Filename Value="procesos.pas"/>
+        <Caret Line="100" Column="25" TopLine="93"/>
+      </Position22>
+      <Position23>
+        <Filename Value="procesos.pas"/>
+        <Caret Line="674" Column="15" TopLine="652"/>
+      </Position23>
+      <Position24>
+        <Filename Value="procesos.pas"/>
+        <Caret Line="670" Column="17" TopLine="652"/>
+      </Position24>
+      <Position25>
+        <Filename Value="procesos.pas"/>
+        <Caret Line="436" Column="30" TopLine="423"/>
+      </Position25>
+      <Position26>
+        <Filename Value="procesos.pas"/>
+        <Caret Line="387" Column="17" TopLine="374"/>
+      </Position26>
+      <Position27>
+        <Filename Value="procesos.pas"/>
+        <Caret Line="145" Column="26" TopLine="132"/>
+      </Position27>
+      <Position28>
+        <Filename Value="procesos.pas"/>
+        <Caret Line="107" Column="11" TopLine="94"/>
+      </Position28>
+      <Position29>
+        <Filename Value="procesos.pas"/>
+        <Caret Line="100" Column="11" TopLine="94"/>
+      </Position29>
+      <Position30>
+        <Filename Value="procesos.pas"/>
+        <Caret Line="75" Column="11" TopLine="61"/>
+      </Position30>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

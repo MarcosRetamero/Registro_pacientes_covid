@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.2.0\bin\x86_64-win64\fpc.exe" Date="1357342575"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -l -vewnhibq &quot;-FiC:\Users\santi\Desktop\tp final covid 9.0\lib\x86_64-win64&quot; &quot;-FuC:\Users\santi\Desktop\tp final covid 9.0\&quot; &quot;-FUC:\Users\santi\Desktop\tp final covid 9.0\lib\x86_64-win64\&quot; &quot;-FEC:\Users\santi\Desktop\tp final covid 9.0\&quot; &quot;-oC:\Users\santi\Desktop\tp final covid 9.0\Tp_final_covid.exe&quot; Tp_final_covid.lpr"/>
+</CONFIG>
